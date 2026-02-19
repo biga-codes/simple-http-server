@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class http_client{
+public class Httpclient{
     
      public static void main(String[] args) {
         if (args.length != 1) {
@@ -227,6 +227,8 @@ public class http_client{
   }
 
    
+
+}
 
 }
 
